@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biu</string>
+    <string name="name">你的名字~</string>
+    <string name="biu">你好呀</string>
+    <string name="open">拆开信封</string>
+    <string name="close">合上信封</string>
+    <string name="exit">再（tui）见（chu）</string>
+    <string name="splash">你好呐</string>
+    <drawable name="letter">#ECE1CA</drawable>
+</resources>
